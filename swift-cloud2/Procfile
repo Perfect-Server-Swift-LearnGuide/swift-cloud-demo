@@ -1,0 +1,1 @@
+web: .build/release/swift-cloud --port $PORT
